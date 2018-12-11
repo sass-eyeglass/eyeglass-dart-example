@@ -1,0 +1,9 @@
+@import "bourbon";
+
+.element {
+  @include border-color(#a60b55 #76cd9c null #e8ae1a);
+}
+
+.element {
+  font-size: modular-scale(3, 1em 1.6em, $major-seventh);
+}

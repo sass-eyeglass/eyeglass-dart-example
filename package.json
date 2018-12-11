@@ -1,0 +1,10 @@
+{
+  "name": "eyeglass-dart-example",
+  "private": true,
+  "devDependencies": {
+    "bourbon": "^5.1.0",
+    "eyeglass": "^2.0.0",
+    "fibers": "^3.1.1",
+    "sass": "^1.15.2"
+  }
+}
